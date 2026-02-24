@@ -85,6 +85,3 @@ Isso irá:
 - Pandas
 - Scikit-learn
 - Matplotlib
-
-Instalação:
-
